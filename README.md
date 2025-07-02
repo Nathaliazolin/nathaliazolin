@@ -27,7 +27,7 @@
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn][(https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/nathalia-zolin-199170169]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-zolin-199170169)
 
 ---
 
